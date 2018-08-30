@@ -1,6 +1,6 @@
 # vue-router
 
-> A vue.js project displaying vue-router
+> A vue.js project displaying vue-router.  Vue-router allows for navigation within a single page application.  One can seamlessly move between links this way.  
 
 ## Build Setup
 
